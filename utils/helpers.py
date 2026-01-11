@@ -16,3 +16,4 @@ def risk_label(prob: float) -> str:
         return "Medium"
     else:
         return "High"
+
